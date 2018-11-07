@@ -1,0 +1,22 @@
+h1{
+  font-family: 'Leckerli One', cursive;
+}
+body{
+  font-family: 'Raleway', sans-serif;
+  background-color: lightblue;
+}
+li{
+  font-size:20px;
+}
+table{
+  padding:20px;
+}
+a{
+  text-decoration: none;
+}
+ul{
+  list-style-type:circle;
+}
+img{
+  border: 10px;
+}
