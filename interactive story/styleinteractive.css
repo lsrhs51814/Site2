@@ -1,0 +1,18 @@
+td{
+  padding: 20px;
+}
+a{
+  text-decoration: none;
+  color: teal;
+}
+tr{
+  border: 5px solid teal;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  background-color: azure;
+  color: teal;
+  border: 5px solid teal;
+}
